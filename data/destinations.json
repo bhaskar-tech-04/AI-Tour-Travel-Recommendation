@@ -1,0 +1,200 @@
+{
+  "goa": {
+    "price": "₹12,999",
+    "duration": "4 Days / 3 Nights",
+    "hotel": "Sea View Resort",
+    "activities": ["Beach Party", "Water Sports", "Cruise Ride", "Nightlife"],
+    "best_time": "November to February",
+    "description": "Goa is a beach paradise on India's west coast with beautiful coastal views, vibrant nightlife, and water sports.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "manali": {
+    "price": "₹18,499",
+    "duration": "5 Days / 4 Nights",
+    "hotel": "Mountain Paradise Hotel",
+    "activities": ["Snow Adventure", "River Rafting", "Camping", "Paragliding"],
+    "best_time": "October to June",
+    "description": "Manali is a stunning hill station in Himachal Pradesh with mountain landscapes, adventure sports, and nature retreats.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "kashmir": {
+    "price": "₹22,499",
+    "duration": "5 Days / 4 Nights",
+    "hotel": "Srinagar Palace Hotel",
+    "activities": ["Shikara Ride", "Gulmarg Skiing", "Trek to Forests", "Local Crafts Tour"],
+    "best_time": "April to October",
+    "description": "Kashmir is the 'Paradise of India' with breathtaking valleys, snow-capped mountains, and scenic lakes.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "agra": {
+    "price": "₹15,000",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Taj View Hotel",
+    "activities": ["Taj Mahal Visit", "Agra Fort Tour", "Sunset Viewing", "Local Markets"],
+    "best_time": "October to March",
+    "description": "Agra is home to the iconic Taj Mahal, one of the world's most beautiful monuments built as a symbol of love.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "jaipur": {
+    "price": "₹16,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Pink City Palace Hotel",
+    "activities": ["City Palace Visit", "Hawa Mahal Tour", "Local Bazaar", "Fort Exploration"],
+    "best_time": "October to March",
+    "description": "Jaipur, the 'Pink City' of Rajasthan, is famous for its architecture, forts, and royal heritage.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "delhi": {
+    "price": "₹14,000",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Delhi Heritage Hotel",
+    "activities": ["Red Fort Tour", "India Gate Visit", "Street Food Tour", "Museum Exploration"],
+    "best_time": "October to March",
+    "description": "Delhi, India's capital, blends ancient monuments with modern attractions, culture, and vibrant street life.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "kerala": {
+    "price": "₹24,999",
+    "duration": "5 Days / 4 Nights",
+    "hotel": "Backwater Houseboat",
+    "activities": ["Backwater Cruises", "Beach Relaxation", "Spice Plantation Tour", "Ayurveda Spa"],
+    "best_time": "September to May",
+    "description": "Kerala, 'God's Own Country', features pristine backwaters, lush landscapes, and perfect relaxation.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "udaipur": {
+    "price": "₹19,999",
+    "duration": "4 Days / 3 Nights",
+    "hotel": "Lake Palace Hotel",
+    "activities": ["Lake Pichola Cruise", "City Palace Tour", "Temple Visits", "Sunset Viewing"],
+    "best_time": "October to March",
+    "description": "Udaipur, the 'City of Lakes', is a romantic destination with stunning palaces and picturesque lake views.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "varanasi": {
+    "price": "₹13,000",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Ghat View Hotel",
+    "activities": ["Ganga Aarti", "Temple Tours", "Boat Rides", "Spiritual Experience"],
+    "best_time": "October to March",
+    "description": "Varanasi is one of the world's oldest cities and the spiritual heart of India on the banks of the Ganges.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "shimla": {
+    "price": "₹16,500",
+    "duration": "4 Days / 3 Nights",
+    "hotel": "Highland View Resort",
+    "activities": ["Mall Road Walk", "Monkey Point Visit", "Nature Trek", "Local Bazaar"],
+    "best_time": "April to June",
+    "description": "Shimla, the 'Queen of Hills', offers cool climate, colonial architecture, and beautiful Himalayan views.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "darjeeling": {
+    "price": "₹14,999",
+    "duration": "4 Days / 3 Nights",
+    "hotel": "Tea Plantation Hotel",
+    "activities": ["Tea Garden Tour", "Toy Train Ride", "Sunrise Viewing", "Local Market"],
+    "best_time": "March to May",
+    "description": "Darjeeling in West Bengal is famous for tea gardens, stunning mountain views, and the iconic toy train.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "ooty": {
+    "price": "₹15,999",
+    "duration": "4 Days / 3 Nights",
+    "hotel": "Mountain View Resort",
+    "activities": ["Toy Train Ride", "Lake Visits", "Garden Tours", "Trekking"],
+    "best_time": "April to June",
+    "description": "Ooty in Tamil Nadu is a picturesque hill station with gardens, forests, and a pleasant climate.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "mysore": {
+    "price": "₹17,000",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Palace Heritage Hotel",
+    "activities": ["Palace Tour", "Chamundi Hill Trek", "Temple Visits", "Local Crafts"],
+    "best_time": "October to March",
+    "description": "Mysore is known for its magnificent palace, temples, and pleasant climate in the heart of Karnataka.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "andaman": {
+    "price": "₹28,999",
+    "duration": "5 Days / 4 Nights",
+    "hotel": "Island Beach Resort",
+    "activities": ["Island Hopping", "Scuba Diving", "Beach Relaxation", "Water Sports"],
+    "best_time": "November to May",
+    "description": "Andaman & Nicobar Islands offer pristine beaches, coral reefs, and crystal-clear waters for diving.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "pondicherry": {
+    "price": "₹12,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "French Quarter Hotel",
+    "activities": ["Beach Walks", "Temple Tours", "Aurovile Visit", "French Cuisine"],
+    "best_time": "October to March",
+    "description": "Pondicherry is a charming coastal town with French colonial influence, beaches, and spiritual sites.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "pushkar": {
+    "price": "₹14,500",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Pushkar Lake Hotel",
+    "activities": ["Camel Fair Tour", "Temple Visits", "Lake Circumambulation", "Local Market"],
+    "best_time": "October to November",
+    "description": "Pushkar is a sacred town in Rajasthan famous for its holy lake and the annual Camel Fair.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "mumbai": {
+    "price": "₹13,500",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Marine Drive Hotel",
+    "activities": ["Gateway of India Tour", "Beach Walks", "Bollywood Studio Visit", "Street Food Tour"],
+    "best_time": "October to March",
+    "description": "Mumbai, India's financial hub, offers beaches, Bollywood culture, colonial landmarks, and vibrant nightlife.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "kolkata": {
+    "price": "₹12,000",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Bengal Heritage Hotel",
+    "activities": ["Temple Tours", "Darjeeling Market", "Museum Visits", "Cultural Shows"],
+    "best_time": "October to March",
+    "description": "Kolkata is the cultural capital of India with literature, art, temples, and authentic Bengali cuisine.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "nainital": {
+    "price": "₹14,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Lake View Resort",
+    "activities": ["Boating", "Mall Road Walk", "Temple Visits", "Nature Trek"],
+    "best_time": "April to June",
+    "description": "Nainital is a beautiful lake district in Uttarakhand with serene waters and Himalayan views.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "rishikesh": {
+    "price": "₹11,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Ashram Retreat Hotel",
+    "activities": ["Yoga Classes", "Ganga Rafting", "Temple Visits", "Meditation"],
+    "best_time": "October to March",
+    "description": "Rishikesh is the yoga capital of India with ashrams, temples, and spiritual activities on the Ganges.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "jaisalmer": {
+    "price": "₹13,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Desert Fort Hotel",
+    "activities": ["Desert Safari", "Fort Tour", "Camel Rides", "Sand Dunes"],
+    "best_time": "October to March",
+    "description": "Jaisalmer is a golden desert city in Rajasthan with stunning forts and authentic Rajasthani culture.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  },
+  "jodhpur": {
+    "price": "₹15,499",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Mehrangarh Fort Hotel",
+    "activities": ["Fort Tour", "City Palace Visit", "Blue City Walk", "Local Markets"],
+    "best_time": "October to March",
+    "description": "Jodhpur, the 'Blue City', features the magnificent Mehrangarh Fort and distinct blue-painted houses.",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4"
+  }
+}

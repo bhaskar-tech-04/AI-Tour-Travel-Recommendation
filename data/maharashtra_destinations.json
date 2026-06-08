@@ -1,0 +1,218 @@
+{
+  "pune": {
+    "price": "₹12,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Heritage Pune Hotel",
+    "activities": ["Shaniwar Wada", "Aga Khan Palace", "Street Food Tour", "Pune Museums"],
+    "best_time": "October to March",
+    "description": "Pune is a cultural and historical city in Maharashtra known for forts, colonial landmarks, and lively food scenes.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  },
+  "lonavala": {
+    "price": "₹9,499",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Hill View Resort",
+    "activities": ["Lohagad Fort", "Bushy Lake", "Trekking", "Waterfalls"],
+    "best_time": "June to September",
+    "description": "Lonavala is a popular hill station near Mumbai/Pune known for forts, lakes, and monsoon waterfalls.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  "mahableshwar": {
+    "price": "₹11,999",
+    "duration": "3 Days / 2 Nights",
+    "hotel": "Valley View Resort",
+    "activities": ["Mapro Garden", "Table Land", "Strawberry Farms", "Trekking"],
+    "best_time": "October to June",
+    "description": "Mahabaleshwar is a beautiful hill station with viewpoints, strawberry farms, and pleasant weather.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  "alibaug": {
+    "price": "₹8,999",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Beachside Resort",
+    "activities": ["Alibaug Beach", "Kolaba Fort", "Water Sports", "Seafood"],
+    "best_time": "October to May",
+    "description": "Alibaug is a coastal town near Mumbai famous for beaches, forts, and relaxed weekend getaways.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  "aurangabad": {
+    "price": "₹13,999",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Aurangabad Heritage Hotel",
+    "activities": ["Ajanta & Ellora Caves", "Bibi Ka Maqbara", "Local Markets"],
+    "best_time": "October to March",
+    "description": "Aurangabad is a gateway to the world-famous Ajanta and Ellora caves and rich historical heritage.",
+    "image": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+  },
+  "ajanta-ellora": {
+    "price": "₹9,999",
+    "duration": "1-2 Days",
+    "hotel": "Cave View Hotel",
+    "activities": ["Ancient Cave Visits", "Heritage Walks", "Photography"],
+    "best_time": "October to March",
+    "description": "Ajanta and Ellora are UNESCO World Heritage cave complexes near Aurangabad featuring ancient rock-cut architecture and sculptures.",
+    "image": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b"
+  },
+  "shirdi": {
+    "price": "₹6,999",
+    "duration": "1-2 Days",
+    "hotel": "Pilgrim Stay",
+    "activities": ["Sai Baba Temple", "Darshan", "Prasad"],
+    "best_time": "October to March",
+    "description": "Shirdi is the famous pilgrimage town home to the Sai Baba Temple attracting devotees from across India.",
+    "image": "https://images.unsplash.com/photo-1533681909203-6b5e0b2f8dbe"
+  },
+  "nashik": {
+    "price": "₹10,999",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Vineyard Resort",
+    "activities": ["Trimbakeshwar Temple", "Wine Tours", "Panchavati", "Kumbh Mela (seasonal)"],
+    "best_time": "October to March",
+    "description": "Nashik is a holy city on the banks of the Godavari River, known for temples and vineyards.",
+    "image": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+  },
+  "trimbakeshwar": {
+    "price": "₹5,999",
+    "duration": "Day Trip",
+    "hotel": "Pilgrim Rest",
+    "activities": ["Temple Visit", "Spiritual Darshan", "Hiking"],
+    "best_time": "October to March",
+    "description": "Trimbakeshwar is one of the 12 Jyotirlinga temples dedicated to Lord Shiva, located near Nashik.",
+    "image": "https://images.unsplash.com/photo-1516715094482-36a7b3f6f3c7"
+  },
+  "bhimashankar": {
+    "price": "₹7,499",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Forest Lodge",
+    "activities": ["Temple Visit", "Wildlife", "Trekking"],
+    "best_time": "October to March",
+    "description": "Bhimashankar is an ancient temple and wildlife sanctuary in the Western Ghats, also one of the Jyotirlingas.",
+    "image": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde"
+  },
+  "grishneshwar": {
+    "price": "₹5,499",
+    "duration": "Day Trip",
+    "hotel": "Local Guesthouse",
+    "activities": ["Temple Visit", "Heritage Walk"],
+    "best_time": "October to March",
+    "description": "Grishneshwar is a historic temple near Ellora and one of the 12 Jyotirlingas of Lord Shiva.",
+    "image": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b"
+  },
+  "tulja-bhavani": {
+    "price": "₹5,999",
+    "duration": "Day Trip",
+    "hotel": "Pilgrim Lodge",
+    "activities": ["Temple Darshan", "Local Markets"],
+    "best_time": "October to March",
+    "description": "Tulja Bhavani Temple in Tuljapur is an important Shakti shrine in Maharashtra attracting devotees year-round.",
+    "image": "https://images.unsplash.com/photo-1516715094482-36a7b3f6f3c7"
+  },
+  "kolhapur": {
+    "price": "₹8,999",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Mahalaxmi View Hotel",
+    "activities": ["Mahalaxmi Temple", "Local Markets", "Heritage Walk"],
+    "best_time": "October to March",
+    "description": "Kolhapur is known for the Mahalakshmi Temple, traditional Kolhapuri cuisine, and rich history.",
+    "image": "https://images.unsplash.com/photo-1516715094482-36a7b3f6f3c7"
+  },
+  "raigad-fort": {
+    "price": "₹6,499",
+    "duration": "Day Trip",
+    "hotel": "Fort Base Stay",
+    "activities": ["Fort Visit", "Trekking", "History Walk"],
+    "best_time": "October to March",
+    "description": "Raigad Fort was the capital of Chhatrapati Shivaji Maharaj and is a must-visit historical fort in Maharashtra.",
+    "image": "https://images.unsplash.com/photo-1520975912797-8b6f2a5d6b3e"
+  },
+  "sinhagad": {
+    "price": "₹4,499",
+    "duration": "Day Trip",
+    "hotel": "Pune Base Hotel",
+    "activities": ["Fort Trek", "History", "Camping"],
+    "best_time": "October to March",
+    "description": "Sinhagad is a popular fort near Pune offering trekking, panoramic views, and historical significance.",
+    "image": "https://images.unsplash.com/photo-1520975912797-8b6f2a5d6b3e"
+  },
+  "rajgad": {
+    "price": "₹5,499",
+    "duration": "Day Trip",
+    "hotel": "Base Camp Stay",
+    "activities": ["Fort Trek", "Heritage", "Photography"],
+    "best_time": "October to March",
+    "description": "Rajgad Fort, once the capital of the Maratha Empire, offers rich history and scenic trekking routes.",
+    "image": "https://images.unsplash.com/photo-1520975912797-8b6f2a5d6b3e"
+  },
+  "purandar": {
+    "price": "₹4,999",
+    "duration": "Day Trip",
+    "hotel": "Village Homestay",
+    "activities": ["Fort Visit", "Trekking", "Village Tours"],
+    "best_time": "October to March",
+    "description": "Purandar Fort is a historic fort near Pune popular with trekkers and history enthusiasts.",
+    "image": "https://images.unsplash.com/photo-1520975912797-8b6f2a5d6b3e"
+  },
+  "lohagad": {
+    "price": "₹4,499",
+    "duration": "Day Trip",
+    "hotel": "Lonavala Stay",
+    "activities": ["Fort Trek", "Monsoon Views", "Photography"],
+    "best_time": "June to September",
+    "description": "Lohagad Fort is an easily accessible fort near Lonavala known for its wide plateau and scenic views.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  "visapur": {
+    "price": "₹4,499",
+    "duration": "Day Trip",
+    "hotel": "Lonavala Stay",
+    "activities": ["Fort Trek", "Nature Walks"],
+    "best_time": "June to September",
+    "description": "Visapur Fort sits close to Lohagad and offers a good trekking challenge with rewarding views.",
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+  "sindhudurg": {
+    "price": "₹9,499",
+    "duration": "2 Days / 1 Night",
+    "hotel": "Beach Fort Resort",
+    "activities": ["Fort Visit", "Island Hopping", "Diving"],
+    "best_time": "October to March",
+    "description": "Sindhudurg Fort is a sea fort off the Konkan coast known for its impressive maritime architecture.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  "murud-janjira": {
+    "price": "₹9,499",
+    "duration": "1 Day",
+    "hotel": "Murud Stay",
+    "activities": ["Janjira Fort Visit", "Boat Ride", "Beach"],
+    "best_time": "October to March",
+    "description": "Murud-Janjira is famous for its impregnable sea fort located just off the coast near Alibaug.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+  "shivneri": {
+    "price": "₹4,499",
+    "duration": "Day Trip",
+    "hotel": "Local Stay",
+    "activities": ["Fort Visit", "History", "Photography"],
+    "best_time": "October to March",
+    "description": "Shivneri Fort is the birthplace of Chhatrapati Shivaji Maharaj and an important historical site.",
+    "image": "https://images.unsplash.com/photo-1520975912797-8b6f2a5d6b3e"
+  },
+  "siddhivinayak": {
+    "price": "₹3,499",
+    "duration": "Day Trip",
+    "hotel": "Mumbai Stay",
+    "activities": ["Temple Darshan", "Prayers"],
+    "best_time": "October to March",
+    "description": "Siddhivinayak Temple in Mumbai is one of the most popular Ganesh temples in India.",
+    "image": "https://images.unsplash.com/photo-1516715094482-36a7b3f6f3c7"
+  },
+  "dagdusheth": {
+    "price": "₹3,499",
+    "duration": "Day Trip",
+    "hotel": "Pune Stay",
+    "activities": ["Temple Darshan", "Local Bazaar"],
+    "best_time": "October to March",
+    "description": "Dagdusheth Halwai Ganpati Temple in Pune is a renowned Ganesh shrine attracting devotees and tourists.",
+    "image": "https://images.unsplash.com/photo-1516715094482-36a7b3f6f3c7"
+  }
+}
